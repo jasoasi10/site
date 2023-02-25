@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<h1>SONGS BY Ashedima lands</h1>
+<p>Здравствйте, мы создали не полный вебсайт про песен,скоро тут будет вселенная музыки где будет и аудио и видео и конечно же офицальное видео.
+Hello, we have not created a complete website about songs, soon there will be a universe of music where there will be audio and video and of course an official video.</p>
+
+<title>SONGS</title>
+<table border = "6">
+    <tr>
+        <th>СОЗДАТЕЛИ</th>
+    </tr>
+      <tr>
+        <td>Рафануезел</td>
+        <td>Ашхандимбилаз</td>
+        <td></td>
+    </tr>
+      <tr>
+        <td>Аклезахяусаянд</td>
+        <td>Рертуиявназзер</td>
+    </tr>
+      <tr>
+        <td>Улебзикатур</td>
+        <td>Нахривентаропльиав</td>
+        
+    </tr>
+
+    <audio controls>
+        <source src="Tom_Odell_-_Another_Love_48005307.mp3" type="audio/mpeg">
+    </audio>
+	
+	<video controls>
+        <source src="tom-odell-another-love_150351.mp4">
+    </video>
+	
+	<a href=https://www.youtube.com/watch?v=MwpMEbgC7DA>ОФИЦАЛЬНОЕ ВИДЕО</a>
+	
